@@ -1,3 +1,2 @@
-This is currently only one experiment:
-
-- taking 60 frames of animation and mapping its colors using LUT
+- *swipe_card_animation* - taking 60 frames of animation and mapping its colors using LUT
+- *draw_eye* - generate eye textures for 3D models
